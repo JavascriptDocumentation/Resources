@@ -1,5 +1,5 @@
 
-#### [![Vuk](https://assets.themuse.com/uploaded/companies/931/small_logo.png?v=c550daba7831807d9c85bacb749732010b0eb366ea66021752b66caf2a8594a3)](https://github.com/JavascriptDocumentation/Awesome-Javascript)
+#### [![Vuk]()](https://github.com/JavascriptDocumentation/Awesome-Javascript)
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
