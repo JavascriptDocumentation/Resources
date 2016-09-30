@@ -5,7 +5,7 @@
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
-## Quick links:
+# Quick links:
   * [Pluralsight: Basics of Programming with Javascript](https://app.pluralsight.com/player?course=javascript-programming-basics&author=kyle-simpson&name=javascript-programming-basics-m1&clip=1&mode=live)
   * [Javascript for Cats](http://jsforcats.com/)
   * [Eloquent Javascript](http://eloquentjavascript.net/)
