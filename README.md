@@ -11,6 +11,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [grips Templating Engine](https://getify.github.io/grips/)
   * [Tutorials Point](https://www.tutorialspoint.com/javascript/javascript_overview.htm)
   * [Asynquence Library](https://github.com/getify/asynquence)
+  * [Speaker deck for Getify](https://speakerdeck.com/getify)
 
 
 # Contents
