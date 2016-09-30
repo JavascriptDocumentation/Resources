@@ -13,6 +13,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Tutorials Point](https://www.tutorialspoint.com/javascript/javascript_overview.htm)
   * [Asynquence Library](https://github.com/getify/asynquence)
   * [Speaker deck for Getify](https://speakerdeck.com/getify)
+  * [Mastering Developer Tools Console](http://blog.teamtreehouse.com/mastering-developer-tools-console)
 
 
 # Contents
