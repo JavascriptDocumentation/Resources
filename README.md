@@ -1,6 +1,4 @@
 
-[Tutorials Point](https://www.tutorialspoint.com/javascript/javascript_overview.htm)
-
 # Javascript [![Vuk](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/JavascriptDocumentation/Awesome-Javascript)
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
@@ -11,6 +9,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Eloquent Javascript](http://eloquentjavascript.net/)
   * [Labjs](https://github.com/getify/LABjs)
   * [grips Templating Engine](https://getify.github.io/grips/)
+  * [Tutorials Point](https://www.tutorialspoint.com/javascript/javascript_overview.htm)
 
 
 # Contents
