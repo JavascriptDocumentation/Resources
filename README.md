@@ -10,6 +10,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Javascript for Cats](http://jsforcats.com/)
   * [Eloquent Javascript](http://eloquentjavascript.net/)
   * [Labjs](https://github.com/getify/LABjs)
+  * [grips Templating Engine](https://getify.github.io/grips/)
 
 
 # Contents
