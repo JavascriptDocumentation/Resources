@@ -9,6 +9,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Pluralsight: Basics of Programming with Javascript](https://app.pluralsight.com/player?course=javascript-programming-basics&author=kyle-simpson&name=javascript-programming-basics-m1&clip=1&mode=live)
   * [Javascript for Cats](http://jsforcats.com/)
 
+
+# CONTENT
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
