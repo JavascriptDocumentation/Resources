@@ -14,6 +14,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Asynquence Library](https://github.com/getify/asynquence)
   * [Speaker deck for Getify](https://speakerdeck.com/getify)
   * [Mastering Developer Tools Console](http://blog.teamtreehouse.com/mastering-developer-tools-console)
+  * [Git](https://git-scm.com/book/en/v2)
 
 
 # Contents
