@@ -4,7 +4,7 @@
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
 # Quick links:
- * [HTML5Please](http://html5please.com/)
+  * [HTML5Please](http://html5please.com/)
   * [DevDocs](http://devdocs.io/)
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
   * [Pluralsight: Basics of Programming with Javascript](https://app.pluralsight.com/player?course=javascript-programming-basics&author=kyle-simpson&name=javascript-programming-basics-m1&clip=1&mode=live)
