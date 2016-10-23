@@ -4,6 +4,7 @@
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
 # Quick links:
+  * [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   * [HTML5Please](http://html5please.com/)
   * [DevDocs](http://devdocs.io/)
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
