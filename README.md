@@ -18,6 +18,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Speaker deck for Getify](https://speakerdeck.com/getify)
   * [Mastering Developer Tools Console](http://blog.teamtreehouse.com/mastering-developer-tools-console)
   * [Git](https://git-scm.com/book/en/v2)
+  * [Facebook BigPipe](https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/)
 
 
 # Contents
