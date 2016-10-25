@@ -20,6 +20,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Git](https://git-scm.com/book/en/v2)
   * [Facebook BigPipe](https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/)
   * [Making Facebook 2x Faster](https://www.facebook.com/note.php?note_id=307069903919)
+  * [HSLA Tricks](https://css-tricks.com/examples/HSLaExplorer/)
 
 
 # Contents
