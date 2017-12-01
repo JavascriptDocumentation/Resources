@@ -7,6 +7,6 @@ Encapsulation: the capability to store related information, whether data or meth
 
 􏰀Inheritance: the capability of a class to rely upon another class (or number of classes) for some of its properties and methods.
 
-􏰀 * Polymorphism: the capability to write one function or method that works in a variety of different ways.
+􏰀Polymorphism: the capability to write one function or method that works in a variety of different ways.
 
 Objects are composed of attributes. If an attribute contains a function, it is considered to be a method of the object, otherwise the attribute is considered a property.
