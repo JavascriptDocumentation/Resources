@@ -18,3 +18,5 @@ Objects are composed of attributes. If an attribute contains a function, it is c
 ```Javascript
 objectName.objectProperty = propertyValue;
 ```
+
+* Methods are the functions that let the object do something or let something be done to it. 
