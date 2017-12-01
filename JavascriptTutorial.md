@@ -1,5 +1,6 @@
+# Javascript Tutorial
 
-#### JavaScript is an Object Oriented Programming (OOP) language. A programming language can be called object-oriented if it provides four basic capabilities to developers:
+##### JavaScript is an Object Oriented Programming (OOP) language. A programming language can be called object-oriented if it provides four basic capabilities to developers:
 
 Encapsulation: the capability to store related information, whether data or methods, together in an object.
 
